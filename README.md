@@ -55,6 +55,11 @@ Recipe_Review: Text content of the comment
 
 ## Data Preprocessing
 Data preprocessing involved handling missing values, encoding categorical variables, and normalizing numerical features.
+![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/9f98644d-bfa4-49ca-a6e6-af11e61d7393)
+
+![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/7d8ae75b-46a3-483e-a6f3-45e9cc43e9be)
+
+
 
 
 
