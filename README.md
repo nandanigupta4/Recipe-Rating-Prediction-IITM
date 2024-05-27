@@ -80,7 +80,7 @@ Models were evaluated using accuracy, precision, recall, and F1-score.
 
 
 ## Results
-The Stacking classifier achieved the highest accuracy of 77.8 on test data.
+The Stacking classifier achieved the highest accuracy of 78.8 on test data with a ranking of 54 out of 950 participants in kaggle.
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/ebfbce80-a39e-497f-9dec-360930a75a79)
 
 
