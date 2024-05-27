@@ -19,7 +19,7 @@ This project aims to classify recipes based on their ratings using various machi
  This project aims to classify recipes based on their ratings using a dataset from Kaggle. Accurate classification of recipe ratings can help users find the best recipes quickly, improving their cooking experience. Submissions are evaluated on accuracy Score.
  
  ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/72c2cc58-7495-4f33-bb85-55a74d6a7721)
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/72c2cc58-7495-4f33-bb85-55a74d6a7721)
+
 
 
 
@@ -50,9 +50,6 @@ Recipe_Review: Text content of the comment
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/b221ebfc-4b99-4e51-bbbc-3f52aade6332)
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/b221ebfc-4b99-4e51-bbbc-3f52aade6332)
 
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/dcd14bfb-fe3c-4842-bd76-027ddb264685)
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/dcd14bfb-fe3c-4842-bd76-027ddb264685)
-
 
 
 
@@ -64,7 +61,7 @@ Data preprocessing involved handling missing values, encoding categorical variab
 ## Model Training
 We used several models including logistic regression, random forest, and neural networks. Hyperparameter tuning was performed using GridSearchCV.
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/62593e0b-7c7e-41c4-84ad-0c41c13da433)
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/62593e0b-7c7e-41c4-84ad-0c41c13da433)
+
 
 
 
@@ -72,20 +69,20 @@ We used several models including logistic regression, random forest, and neural 
 ## Evaluation
 Models were evaluated using accuracy, precision, recall, and F1-score.
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/e0d553d2-cf00-49d4-855d-4a3760a00c6d)
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/e0d553d2-cf00-49d4-855d-4a3760a00c6d)
+
 
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/e7b5311a-785a-4b92-8ce0-9be9af654694)
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/e7b5311a-785a-4b92-8ce0-9be9af654694)
+
 
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/e250c6c2-7b55-4339-a8f0-9907ee7a3e70)
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/e250c6c2-7b55-4339-a8f0-9907ee7a3e70)
+
 
 
 
 ## Results
 The Stacking classifier achieved the highest accuracy of 77.8 on test data.
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/ebfbce80-a39e-497f-9dec-360930a75a79)
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/ebfbce80-a39e-497f-9dec-360930a75a79)
+
 
 
 
