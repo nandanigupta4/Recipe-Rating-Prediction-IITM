@@ -48,7 +48,7 @@ Recipe_Review: Text content of the comment
 
 ## Exploratory Data Analysis
 ![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/b221ebfc-4b99-4e51-bbbc-3f52aade6332)
-![image](https://github.com/nandanigupta4/Recipe-Rating-Prediction-IITM/assets/82882909/b221ebfc-4b99-4e51-bbbc-3f52aade6332)
+
 
 
 
